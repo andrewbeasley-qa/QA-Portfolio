@@ -1,2 +1,2 @@
 # QA-Portfolio
-Software Testing
+Software Testing Portfolio
